@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio-Projects
-A portfolio repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, and business insights. This repo highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows.
+A portfolio repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, Power BI dashboards, and business insights. This repository highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows.
 
 # Data Analyst Portfolio Projects
 This repository contains real-world data analytics projects focused on:
@@ -10,8 +10,9 @@ This repository contains real-world data analytics projects focused on:
 - Exploratory Data Analysis (EDA).
 - Correlation Analysis.
 - Dashboard Development with Tableau.
+- Dashboard Development with Power BI.
 
-These projects were built as part of my learning journey inspired by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+These projects were built as part of my learning journey inspired by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) and [Data Tutorials](https://www.youtube.com/@datatutorials1).
 
 ---
 
@@ -35,7 +36,7 @@ This portfolio demonstrates my ability to:
 | Programming | Python, SQL |
 | Database | SQL Server |
 | Data Analysis | Pandas, NumPy |
-| Visualization | Tableau, Matplotlib, Seaborn |
+| Visualization | Tableau, Power BI, Matplotlib, Seaborn |
 | Notebook | Jupyter Notebook |
 | Version Control | Git, GitHub |
 
@@ -53,11 +54,17 @@ Data-Analyst-Portfolio-Projects/
 │
 ├── Nashville Housing/
 │   ├── data/
-│   ├── sql-data-cleaning/
+│   └── sql-data-cleaning/
 │
 ├── Movies/
 │   ├── data/
 │   └── movie-correlation/
+│
+├── Road Accident/
+│   ├── data/
+│   ├── sql/
+│   ├── power-bi/
+│   └── tableau/
 │
 └── README.md
 ```
@@ -241,6 +248,118 @@ to determine which variables have the strongest correlation with movie success.
 
 ---
 
+# 4. Road Accident Analysis Dashboard
+
+## Project Overview
+
+This project analyzes road accident and casualty data to identify accident trends, casualty severity, road conditions, and vehicle involvement.
+
+The project combines:
+
+- SQL data querying and analysis.
+- Power BI dashboard development.
+- Tableau dashboard visualization.
+- Interactive business intelligence reporting.
+
+The SQL scripts are used to generate statistical results and metrics displayed in both the Tableau and Power BI dashboards.
+
+---
+
+## Tools Used
+
+- SQL Server.
+- Power BI.
+- Tableau.
+- Excel / CSV Data.
+
+---
+
+## Dashboard Features
+
+### KPI Cards
+
+Key accident statistics displayed in dashboard summary cards:
+
+- Total Casualties
+- Total Accidents
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+
+---
+
+### Vehicle Type Analysis
+
+Analyzes casualties by vehicle categories:
+
+- Cars
+- Bikes
+- Buses
+- Vans
+- Agricultural Vehicles
+- Other Vehicles
+
+---
+
+### Road Type Analysis
+
+Breakdown of casualties across different road types:
+
+- Single carriageway
+- Dual carriageway
+- Roundabout
+- One-way street
+- Slip road
+
+---
+
+### Weather & Road Surface Analysis
+
+Visualizes accident severity and casualty distribution based on:
+
+- Weather conditions
+- Road surface conditions
+- Wet vs Dry roads
+- Snow / Ice conditions
+
+---
+
+### Urban vs Rural Analysis
+
+Compares accident casualties between:
+
+- Urban Areas
+- Rural Areas
+
+---
+
+### Day vs Night Analysis
+
+Evaluates accident distribution under:
+
+- Daylight conditions
+- Dark / Night conditions
+
+---
+
+### Location-Based Accident Mapping
+
+Interactive maps showing accident hotspots and casualty distributions across the United Kingdom.
+
+---
+
+## Dashboard Insights
+
+Some important insights discovered from the analysis:
+
+- Cars account for the highest number of casualties
+- Most accidents occur on single carriageway roads
+- Urban areas have significantly higher casualty counts than rural areas
+- Daytime accidents are more common than nighttime accidents
+- Dry road conditions account for the majority of reported casualties
+
+---
+
 # How to Use
 
 ## Clone the Repository
@@ -256,6 +375,7 @@ Each folder contains:
 - Jupyter notebooks.
 - Dataset files.
 - Tableau visualizations.
+- Power BI dashboards.
 
 ---
 
@@ -268,12 +388,13 @@ Through these projects, I practiced:
 - Creating professional dashboards.
 - Performing exploratory data analysis.
 - Building data storytelling skills.
+- Developing business intelligence dashboards with Power BI and Tableau.
 
 ---
 
 # Acknowledgements
 
-Special thanks to [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) for providing valuable tutorials and guidance throughout my data analytics learning journey.
+Special thanks to [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) and [Data Tutorials](https://www.youtube.com/@datatutorials1) for providing valuable tutorials and guidance throughout my data analytics learning journey.
 
 ---
 
