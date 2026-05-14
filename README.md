@@ -1,8 +1,5 @@
 # Data-Analyst-Portfolio-Projects
-A portfolio repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, Power BI dashboards, and business insights. This repository highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows.
-
-# Data Analyst Portfolio Projects
-This repository contains real-world data analytics projects focused on:
+A portfolio repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, Power BI dashboards, and business insights. This repository highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows:
 
 - SQL Data Exploration.
 - Data Cleaning.
@@ -36,7 +33,7 @@ This portfolio demonstrates my ability to:
 | Programming | Python, SQL |
 | Database | SQL Server |
 | Data Analysis | Pandas, NumPy |
-| Visualization | Tableau, Power BI, Matplotlib, Seaborn |
+| Visualization | Tableau, Power BI, Excel, Matplotlib, Seaborn |
 | Notebook | Jupyter Notebook |
 | Version Control | Git, GitHub |
 
@@ -65,6 +62,7 @@ Data-Analyst-Portfolio-Projects/
 │   ├── sql/
 │   ├── power-bi/
 │   └── tableau/
+│   └── excel/
 │
 └── README.md
 ```
@@ -382,6 +380,7 @@ Each folder contains:
 - Dataset files.
 - Tableau visualizations.
 - Power BI dashboards.
+- Excel Dashboards.
 
 ---
 
