@@ -310,7 +310,7 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 
 # Excel Dashboard
 
-## [🔗 Road Accident Analysis - Excel Dashboard](Road%20Accident/excel/road-accident-analysis-excel.png)
+## [🔗 Road Accident Analysis - Excel](Road%20Accident/excel/road-accident-analysis-excel.png)
 
 [![Road Accident Analysis Excel](Road%20Accident/excel/road-accident-analysis-excel.png)](Road%20Accident/excel/road-accident-analysis-excel.png)
 
@@ -322,8 +322,6 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 - Accident trend charts.
 - Dynamic slicers & filters.
 - Data cleaning and preprocessing.
-
----
 
 ---
 
