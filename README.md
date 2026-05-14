@@ -98,7 +98,8 @@ The project includes:
 
 ---
 
-## Tableau Dashboard Features [Global Covid-19]([https://ourworldindata.org/covid-deaths](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes))
+## Tableau Dashboard Features 
+🔗 [Global Covid-19](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/GlobalCovid-19_17781804232530/Dashboard1?publish=yes)
 
 ### KPI Cards
 Summary metrics displayed at the top-left of the dashboard:
@@ -265,6 +266,11 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 
 ---
 
+## Tableau Dashboard Features 
+🔗 [Road Accident Analysis](https://public.tableau.com/app/profile/tr.n.nh.uy.n.t./viz/ROADACCIDENTANALYSIS_17786979226730/Dashboard1?publish=yes)
+
+---
+
 ## Tools Used
 
 - SQL Server.
@@ -280,11 +286,11 @@ The SQL scripts are used to generate statistical results and metrics displayed i
 
 Key accident statistics displayed in dashboard summary cards:
 
-- Total Casualties
-- Total Accidents
-- Fatal Casualties
-- Serious Casualties
-- Slight Casualties
+- Total Casualties.
+- Total Accidents.
+- Fatal Casualties.
+- Serious Casualties.
+- Slight Casualties.
 
 ---
 
@@ -292,12 +298,12 @@ Key accident statistics displayed in dashboard summary cards:
 
 Analyzes casualties by vehicle categories:
 
-- Cars
-- Bikes
-- Buses
-- Vans
-- Agricultural Vehicles
-- Other Vehicles
+- Cars.
+- Bikes.
+- Buses.
+- Vans.
+- Agricultural Vehicles.
+- Other Vehicles.
 
 ---
 
@@ -305,11 +311,11 @@ Analyzes casualties by vehicle categories:
 
 Breakdown of casualties across different road types:
 
-- Single carriageway
-- Dual carriageway
-- Roundabout
-- One-way street
-- Slip road
+- Single carriageway.
+- Dual carriageway.
+- Roundabout.
+- One-way street.
+- Slip road.
 
 ---
 
@@ -317,10 +323,10 @@ Breakdown of casualties across different road types:
 
 Visualizes accident severity and casualty distribution based on:
 
-- Weather conditions
-- Road surface conditions
-- Wet vs Dry roads
-- Snow / Ice conditions
+- Weather conditions.
+- Road surface conditions.
+- Wet vs Dry roads.
+- Snow / Ice conditions.
 
 ---
 
@@ -328,8 +334,8 @@ Visualizes accident severity and casualty distribution based on:
 
 Compares accident casualties between:
 
-- Urban Areas
-- Rural Areas
+- Urban Areas.
+- Rural Areas.
 
 ---
 
@@ -337,8 +343,8 @@ Compares accident casualties between:
 
 Evaluates accident distribution under:
 
-- Daylight conditions
-- Dark / Night conditions
+- Daylight conditions.
+- Dark / Night conditions.
 
 ---
 
@@ -352,11 +358,11 @@ Interactive maps showing accident hotspots and casualty distributions across the
 
 Some important insights discovered from the analysis:
 
-- Cars account for the highest number of casualties
-- Most accidents occur on single carriageway roads
-- Urban areas have significantly higher casualty counts than rural areas
-- Daytime accidents are more common than nighttime accidents
-- Dry road conditions account for the majority of reported casualties
+- Cars account for the highest number of casualties.
+- Most accidents occur on single carriageway roads.
+- Urban areas have significantly higher casualty counts than rural areas.
+- Daytime accidents are more common than nighttime accidents.
+- Dry road conditions account for the majority of reported casualties.
 
 ---
 
