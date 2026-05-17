@@ -1,5 +1,5 @@
-# Data-Analyst-Portfolio-Projects
-A portfolio repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, Power BI dashboards, and business insights. This repository highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows:
+# Data-Analyst-Projects
+A repository showcasing end-to-end Data Analyst projects, including data cleaning, exploratory data analysis (EDA), SQL correlation analysis, Tableau dashboards, Power BI dashboards, and business insights. This repository highlights practical skills in data preprocessing, visualization, querying, and storytelling using real-world datasets and analytics workflows:
 
 - SQL Data Exploration.
 - Data Cleaning.
@@ -17,7 +17,7 @@ These projects were built as part of my learning journey inspired by [Alex The A
 
 Hi, I'm **To Tran Nha Uyen** — an aspiring Data Analyst passionate about transforming raw data into meaningful insights and visual stories.
 
-This portfolio demonstrates my ability to:
+This project demonstrates my ability to:
 - Query and analyze data using SQL.
 - Clean messy datasets.
 - Build interactive dashboards.
@@ -42,7 +42,7 @@ This portfolio demonstrates my ability to:
 # Repository Structure
 
 ```bash
-Data-Analyst-Portfolio-Projects/
+Data-Analyst-Projects/
 │
 ├── Global Covid-19/
 │   ├── data/
@@ -342,7 +342,7 @@ Some important insights discovered from the analysis:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/totrannhauyen/Data-Analyst-Portfolio-Projects.git
+git clone https://github.com/totrannhauyen/Data-Analyst-Projects.git
 ```
 
 ## Navigate Through Projects
